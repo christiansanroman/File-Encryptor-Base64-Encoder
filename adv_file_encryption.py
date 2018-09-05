@@ -1,3 +1,5 @@
+#created using the tutorial located on https://www.youtube.com/watch?v=fqjdXMu4ZAQ 
+
 # import libaries------------------------------------------
 from Crypto.Hash import SHA256
 from Crypto.Cipher import AES
